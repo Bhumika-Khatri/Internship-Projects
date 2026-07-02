@@ -1,3 +1,3 @@
-# Internship-Projects
+# Internship Projects
 
-Intern ID : CITS3054
+**Intern ID:** `CITS3054`
